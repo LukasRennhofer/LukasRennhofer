@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-- 🔭 I’m currently working on **Evatrix ( Documentation Engine)**
+- 🔭 I’m currently working on **Minsky Code Editor**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Maschine Learning(RL)**
 
 - 👨‍💻 All of my projects are available at [lukas-r.000webhostapp.com](lukas-r.000webhostapp.com)
 
 - 📝 I regularly write articles on [lukas-r.000webhostapp.com](lukas-r.000webhostapp.com)
 
-- 💬 Ask me about **Python, Flask, C, OpenCV**
+- 💬 Ask me about **Python, C++, C,QT, Decompilation**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
