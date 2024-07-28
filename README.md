@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-- 🔭 I’m currently working on **Minsky Code Editor**
+- 🔭 I’m currently working on **Minsky Code Editor and Bootloader**
 
-- 🌱 I’m currently learning **Maschine Learning(RL)**
+- 🌱 I’m currently learning **OS Development**
 
-- 👨‍💻 All of my projects are available at [lukas-r.000webhostapp.com](lukas-r.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [lukasrdev.netlify.app]lukasrdev.netlify.app)
 
-- 📝 I regularly write articles on [lukas-r.000webhostapp.com](lukas-r.000webhostapp.com)
+- 📝 I regularly write articles on [lukasrdev.netlify.app](lukasrdev.netlify.app)
 
-- 💬 Ask me about **Python, C++, C,QT, Decompilation**
+- 💬 Ask me about **Python, C++, C,QT, OS Dev, Dynamic Memory, Algorythms, 3D Engines**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
-- 📄 Know about my experiences [lukas-r.000webhostapp.com](lukas-r.000webhostapp.com)
+- 📄 Know about my experiences [lukasrdev.netlify.app](lukasrdev.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/evatrixcod7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="evatrixcod7" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llprogram&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="llprogram" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llprogram&show_icons=true&theme=dark&locale=en" alt="llprogram" /></p>
 
