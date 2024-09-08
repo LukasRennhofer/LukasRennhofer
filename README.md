@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-![](https://komarev.com/ghpvc/?username=LL-Program&abbreviated=true)
-
 - 🔭 I’m currently working on **Minsky Code Editor and Bootloader**
 
 - 🌱 I’m currently learning **OS Development**
