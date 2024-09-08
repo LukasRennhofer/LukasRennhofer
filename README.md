@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-![](https://hit.yhype.me/github/profile?user_id=132039008)
+![](https://komarev.com/ghpvc/?username=LL-Program&abbreviated=true)
 
 - 🔭 I’m currently working on **Minsky Code Editor and Bootloader**
 
