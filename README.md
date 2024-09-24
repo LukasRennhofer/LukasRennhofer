@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [lukasrdev.netlify.app]lukasrdev.netlify.app)
 
-- 📝 I regularly write articles on [lukasrdev.netlify.app](lukasrdev.netlify.app)
+- 📝 I regularly write articles on [lukasrdev.netlify.app](lukasr.netlify.app)
 
 - 💬 Ask me about **Python, C++, C,QT, OS Dev, Dynamic Memory, Algorythms, 3D Engines**
 
