@@ -17,6 +17,13 @@
 
 -CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LL-Program&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LL-Program&theme=github_dark&layout=compact" />
+</a>
+
 <br/>
 <br/>
 <h3 align="left">Support:</h3>
