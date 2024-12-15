@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-- 🔭 I’m currently working on **Spex Language, CHIFEngine**
+- 🔭 I’m currently working on **CHIFEngine, Spex programming Language**
 
 - 🌱 I’m currently learning **3D Rendering**
 
-- 👨‍💻 All of my projects are available at [lukasr.netlify.app]lukasr.netlify.app)
+- 👨‍💻 All of my projects are available at [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
-- 📝 I regularly write articles on [lukasr.netlify.app](lukasr.netlify.app)
+- 📝 I regularly write articles on [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
 - 💬 Ask me about **C++, C,Python, QT, OS Dev, Dynamic Memory, Algorythms, 3D Engines**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
-- 📄 Know about my experiences [lukasr.netlify.app](lukasr.netlify.app)
+- 📄 Know about my experiences [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
 -CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
 
