@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
-- 💬 Ask me about **C++, C,Python, QT, OS Dev, Dynamic Memory, Algorythms, 3D Engines**
+- 💬 Ask me about **C++, C, Python, QT, OS Dev, Dynamic Memory, Physx, 3D Engines**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
