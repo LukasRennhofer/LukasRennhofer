@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **CHIFEngine, Spex, Minsky Editor**
 
-- 🌱 I’m currently learning **3D Rendering**
+- 🌱 I’m currently learning **Procedural Generation** and **ECS-based Architecture**
 
 - 👨‍💻 All of my projects are available at [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
 - 📝 I regularly write articles on [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
-- 💬 Ask me about **C++, C, Python, QT, OS Dev, Dynamic Memory, Nvidia PhysX, 3D Engines**
+- 💬 Ask me about **C++, C, Python, QT, OS Dev, Dynamic Memory, Nvidia PhysX, 3D Engines, 3D Rendering**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
