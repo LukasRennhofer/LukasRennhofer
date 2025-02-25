@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [lukasr.netlify.app](https://lukasrdev.netlify.app/)
 
 - 📝 I regularly write articles on [lukasr.netlify.app](https://lukasrdev.netlify.app/)
+  
+- 📙 My [Coding Guidelines](https://github.com/LL-Program/Spex/blob/main/docs/SpexGeneralCodeGuidelinesEN.md) (C++)
 
 - 💬 Ask me about **C++, C, Python, QT, OS Dev, Dynamic Memory, Nvidia PhysX, 3D Engines, 3D Rendering**
 
