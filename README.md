@@ -7,7 +7,7 @@
   
 - 📙 My [Coding Guidelines](https://github.com/LL-Program/Spex/blob/main/docs/SpexGeneralCodeGuidelinesEN.md) (C++)
 
-- 💬 Ask me about **C++, C, OpenGL, Vulkan, Dynamic Memory, Nvidia PhysX, 3D Engines, 3D Rendering**
+- 💬 Ask me about **C++, C, OpenGL, Vulkan, Nvidia PhysX, 3D Engines, 3D Rendering**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
