@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 Software developmeent student and CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
 
-> *"Computers are incredibly fast, accurate, and stupid. Graphic engines just make them look smart."
+> *"Computers are incredibly fast, accurate, and stupid. Graphic engines just make them look smart."*
 
 <h2 align="center">💻 Tech Stack:</h1>
 
