@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="lrdev.me">
+    <img src="http://lrdev.me/images/MinskyLogo.png" width="200" alt="LRDev Logo">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
