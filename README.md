@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
-- 📄 Know about my experiences [lukasr.netlify.app](https://lukasr.netlify.app/)
+- 📄 Know about my experiences [lrdev.me](lrdev.me)
 
-- 🧑‍🎓 Software developmeent student and CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
+- 🧑‍🎓 Software development student and CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
 
 > *"Computers are incredibly fast, accurate, and stupid. Graphic engines just make them look smart."*
 
