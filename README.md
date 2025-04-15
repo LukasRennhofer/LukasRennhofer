@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Rennhofer</h1>
 <h3 align="center">Software development Student from Austria 🚠</h3>
 
-- 🔭 I’m currently working on **CHIFEngine** and **Spe***
+- 🔭 I’m currently working on **CHIFEngine** and **Glyph**
 
 - 🌱 I’m currently learning **Procedural Generation** and **ECS Architecture**
   
