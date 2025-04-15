@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Procedural Generation** and **ECS Architecture**
   
+- 🧑‍🏭 C++, C, Rust (mainly C++) Developer focusing on Graphics and Platform specific programming
+  
 - 📙 My [Coding Guidelines](https://github.com/LL-Program/Spex/blob/main/docs/SpexGeneralCodeGuidelinesEN.md) (C++)
 
 - 🗞️ I regulary write articles on [dev.to](https://dev.to/lrdev)
