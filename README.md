@@ -15,7 +15,7 @@
   
 - 📙 My [Coding Guidelines](https://github.com/LL-Program/Spex/blob/main/docs/SpexGeneralCodeGuidelinesEN.md) (C++)
 
-- 🗞️ I regulary write articles on [dev.to](https://dev.to/lrdev)
+- 🗞️ I regulary write articles on [lrdev.me](https://lrdev.me/)
 
 - 💬 Ask me about **C++, C, OpenGL, Vulkan, Nvidia PhysX, 3D Engines, 3D Rendering**
 
