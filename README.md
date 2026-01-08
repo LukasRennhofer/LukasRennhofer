@@ -15,13 +15,13 @@
   
 - 📙 My [Coding Guidelines](https://github.com/LL-Program/Spex/blob/main/docs/SpexGeneralCodeGuidelinesEN.md) (C++)
 
-- 🗞️ I regulary write articles on [lrdev.me](https://lrdev.me/)
+- 🗞️ I regulary write articles on [lukas-rennhofer.com](https://lukas-rennhofer.com/)
 
 - 💬 Ask me about **C++, C, OpenGL, Vulkan, Nvidia PhysX, 3D Engines, 3D Rendering**
 
 - 📫 How to reach me **lukas.renn@aon.at**
 
-- 📄 Know about my experiences [lrdev.me](lrdev.me)
+- 📄 Know about my experiences [lukas-rennhofer.com](https://lukas-rennhofer.com/)
 
 - 🧑‍🎓 Software development student and CS50x certificated Developer [Certificate](https://certificates.cs50.io/2581aef4-1978-48e3-a196-8c5162e201ac.pdf?size=letter)
 
