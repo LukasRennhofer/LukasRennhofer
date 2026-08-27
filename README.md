@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Lukas Rennhofer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LukasRennhofer&color=red" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Migrated%20Server-red?style=flat-square" alt="Server Status" />
 </p>
 
